@@ -21,7 +21,7 @@ conda activate igwn-py311
 * Clone this repository with 
 
 ```
-https://github.com/apalmese/GW_teaching_material.git
+git clone https://github.com/apalmese/GW_teaching_material.git
 ```
 
 * You are ready to go!
